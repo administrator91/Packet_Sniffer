@@ -12,7 +12,7 @@ The Packet_Sniffer is a network analysis tool built in Python that allows users 
 #### Get all items
 
 ```http
-  sudo python3 scappy_sniffer.py intf[eth0/wlan0]
+  sudo python3 scapy_sniffer.py intf[eth0/wlan0]
 ```
 
 ## Demo
